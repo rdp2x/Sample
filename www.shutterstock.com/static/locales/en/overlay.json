@@ -1,0 +1,21 @@
+{
+  "common:actions_add_to_card": "Add to cart",
+  "common:actions_add_to_cart_gb": "Add to basket",
+  "common:actions_added_to_cart": "Added to cart",
+  "common:actions_added_to_cart_gb": "Added to basket",
+  "common:actions_download": "Download",
+  "common:actions_preview": "Preview",
+  "common:actions_save": "Save",
+  "common:actions_similar": "Similar",
+  "common:actions_try": "Try",
+  "common:resolutions_original": "Original",
+  "ent:comp": "Comp",
+  "ent:comp_tip_no_credits": "Comp limit reached. Please contact your account manager",
+  "ent:premium_content_by_shutterstock": "Premium Content by Shutterstock",
+  "ent:tip_no_access_content": "Your account does not have access to this content. Please contact your Account Manager for more information.",
+  "image:3d_actions_info": "Click into detail page to select angle.",
+  "image:3d_rotate_info": "3D objects are downloaded one angle at a time",
+  "image:logout_adp_free_trial_download": "Download for free",
+  "site-header:3d-objects": "3D Objects",
+  "zoom_out": "Zoom out"
+}
